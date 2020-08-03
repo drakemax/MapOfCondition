@@ -1,0 +1,3560 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.76849,-41.29479 ]
+    },
+    "properties": {
+    "site":"ABE",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Concrete Roof Slabs",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.80908,-41.32261 ]
+    },
+    "properties": {
+    "site":"CAL",
+    "BLOCK":"X",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75519,-41.28269 ]
+    },
+    "properties": {
+    "site":"CRE",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78401,-41.31808 ]
+    },
+    "properties": {
+    "site":"DAN",
+    "BLOCK":"L",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78418,-41.31805 ]
+    },
+    "properties": {
+    "site":"DAN",
+    "BLOCK":"S",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78418,-41.31805 ]
+    },
+    "properties": {
+    "site":"DAN",
+    "BLOCK":"S",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Epoxy Resin Membrane",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78437,-41.31802 ]
+    },
+    "properties": {
+    "site":"DAN",
+    "BLOCK":"T",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78437,-41.31802 ]
+    },
+    "properties": {
+    "site":"DAN",
+    "BLOCK":"T",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Epoxy Resin Membrane",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78337,-41.31759 ]
+    },
+    "properties": {
+    "site":"DAN",
+    "BLOCK":"F",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7845,-41.3182 ]
+    },
+    "properties": {
+    "site":"DAN",
+    "BLOCK":"J",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7845,-41.3182 ]
+    },
+    "properties": {
+    "site":"DAN",
+    "BLOCK":"J",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7845,-41.3182 ]
+    },
+    "properties": {
+    "site":"DAN",
+    "BLOCK":"J",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78485,-41.31814 ]
+    },
+    "properties": {
+    "site":"DAN",
+    "BLOCK":"K",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78485,-41.31814 ]
+    },
+    "properties": {
+    "site":"DAN",
+    "BLOCK":"K",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78485,-41.31814 ]
+    },
+    "properties": {
+    "site":"DAN",
+    "BLOCK":"K",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78485,-41.31814 ]
+    },
+    "properties": {
+    "site":"DAN",
+    "BLOCK":"K",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77538,-41.32463 ]
+    },
+    "properties": {
+    "site":"GRA",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Concrete Roof Slabs",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77538,-41.32463 ]
+    },
+    "properties": {
+    "site":"GRA",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Concrete Roof Slabs",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77538,-41.32463 ]
+    },
+    "properties": {
+    "site":"GRA",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Concrete Roof Slabs",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77578,-41.32461 ]
+    },
+    "properties": {
+    "site":"GRA",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Concrete Roof Slabs",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77578,-41.32461 ]
+    },
+    "properties": {
+    "site":"GRA",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Concrete Roof Slabs",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7763,-41.30793 ]
+    },
+    "properties": {
+    "site":"HAN",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Concrete Roof Slabs",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7763,-41.30793 ]
+    },
+    "properties": {
+    "site":"HAN",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Concrete Roof Slabs",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77606,-41.30761 ]
+    },
+    "properties": {
+    "site":"HAN",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77606,-41.30761 ]
+    },
+    "properties": {
+    "site":"HAN",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77606,-41.30761 ]
+    },
+    "properties": {
+    "site":"HAN",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77606,-41.30761 ]
+    },
+    "properties": {
+    "site":"HAN",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77606,-41.30761 ]
+    },
+    "properties": {
+    "site":"HAN",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77606,-41.30761 ]
+    },
+    "properties": {
+    "site":"HAN",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77606,-41.30761 ]
+    },
+    "properties": {
+    "site":"HAN",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77606,-41.30761 ]
+    },
+    "properties": {
+    "site":"HAN",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77606,-41.30761 ]
+    },
+    "properties": {
+    "site":"HAN",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77606,-41.30761 ]
+    },
+    "properties": {
+    "site":"HAN",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77606,-41.30761 ]
+    },
+    "properties": {
+    "site":"HAN",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77606,-41.30761 ]
+    },
+    "properties": {
+    "site":"HAN",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77606,-41.30761 ]
+    },
+    "properties": {
+    "site":"HAN",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77606,-41.30761 ]
+    },
+    "properties": {
+    "site":"HAN",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77606,-41.30761 ]
+    },
+    "properties": {
+    "site":"HAN",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77606,-41.30761 ]
+    },
+    "properties": {
+    "site":"HAN",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.76531,-41.30643 ]
+    },
+    "properties": {
+    "site":"HAR",
+    "BLOCK":"X",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.80131,-41.22437 ]
+    },
+    "properties": {
+    "site":"HEA",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.80131,-41.22437 ]
+    },
+    "properties": {
+    "site":"HEA",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.80102,-41.22455 ]
+    },
+    "properties": {
+    "site":"HEA",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.80117,-41.22476 ]
+    },
+    "properties": {
+    "site":"HEA",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.80073,-41.22464 ]
+    },
+    "properties": {
+    "site":"HEA",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.80139,-41.22438 ]
+    },
+    "properties": {
+    "site":"HEA",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81333,-41.3239 ]
+    },
+    "properties": {
+    "site":"HOB",
+    "BLOCK":"C",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81333,-41.3239 ]
+    },
+    "properties": {
+    "site":"HOB",
+    "BLOCK":"C",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Butynol Roofing",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.73335,-41.28572 ]
+    },
+    "properties": {
+    "site":"KAR",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Concrete Roof Slabs",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81572,-41.30926 ]
+    },
+    "properties": {
+    "site":"MAU",
+    "BLOCK":"E",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.82245,-41.30422 ]
+    },
+    "properties": {
+    "site":"MIR",
+    "BLOCK":"R",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Tile Roofing - Concrete",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.82391,-41.3024 ]
+    },
+    "properties": {
+    "site":"MIR",
+    "BLOCK":"S",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.82391,-41.3024 ]
+    },
+    "properties": {
+    "site":"MIR",
+    "BLOCK":"S",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.82431,-41.302 ]
+    },
+    "properties": {
+    "site":"MIR",
+    "BLOCK":"T",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81974,-41.30869 ]
+    },
+    "properties": {
+    "site":"MIR",
+    "BLOCK":"C",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81974,-41.30869 ]
+    },
+    "properties": {
+    "site":"MIR",
+    "BLOCK":"C",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Decramastic",
+    "c27":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81985,-41.30846 ]
+    },
+    "properties": {
+    "site":"MIR",
+    "BLOCK":"E",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81975,-41.30717 ]
+    },
+    "properties": {
+    "site":"MIR",
+    "BLOCK":"F",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.82033,-41.3068 ]
+    },
+    "properties": {
+    "site":"MIR",
+    "BLOCK":"G",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Tile Roofing - Concrete",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.82036,-41.30662 ]
+    },
+    "properties": {
+    "site":"MIR",
+    "BLOCK":"H",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.82041,-41.30646 ]
+    },
+    "properties": {
+    "site":"MIR",
+    "BLOCK":"I",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.82053,-41.30633 ]
+    },
+    "properties": {
+    "site":"MIR",
+    "BLOCK":"U",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.82089,-41.30634 ]
+    },
+    "properties": {
+    "site":"MIR",
+    "BLOCK":"J",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.82103,-41.30616 ]
+    },
+    "properties": {
+    "site":"MIR",
+    "BLOCK":"K",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.82053,-41.30573 ]
+    },
+    "properties": {
+    "site":"MIR",
+    "BLOCK":"L",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.82134,-41.30488 ]
+    },
+    "properties": {
+    "site":"MIR",
+    "BLOCK":"M",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Decramastic",
+    "c27":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.82137,-41.30475 ]
+    },
+    "properties": {
+    "site":"MIR",
+    "BLOCK":"N",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.82146,-41.30463 ]
+    },
+    "properties": {
+    "site":"MIR",
+    "BLOCK":"O",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.82146,-41.30463 ]
+    },
+    "properties": {
+    "site":"MIR",
+    "BLOCK":"O",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Butynol Roofing",
+    "c27":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.82156,-41.30456 ]
+    },
+    "properties": {
+    "site":"MIR",
+    "BLOCK":"P",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.82223,-41.30457 ]
+    },
+    "properties": {
+    "site":"MIR",
+    "BLOCK":"Q",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7928,-41.30881 ]
+    },
+    "properties": {
+    "site":"MOX",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Butynol Roofing",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7928,-41.30881 ]
+    },
+    "properties": {
+    "site":"MOX",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Butynol Roofing",
+    "c27":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7928,-41.30881 ]
+    },
+    "properties": {
+    "site":"MOX",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Butynol Roofing",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78123,-41.31913 ]
+    },
+    "properties": {
+    "site":"NEW",
+    "BLOCK":"C",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.79626,-41.24001 ]
+    },
+    "properties": {
+    "site":"OMA",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.76996,-41.29698 ]
+    },
+    "properties": {
+    "site":"PUK",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.76996,-41.29698 ]
+    },
+    "properties": {
+    "site":"PUK",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.76996,-41.29698 ]
+    },
+    "properties": {
+    "site":"PUK",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.76947,-41.29643 ]
+    },
+    "properties": {
+    "site":"PUK",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.76947,-41.29643 ]
+    },
+    "properties": {
+    "site":"PUK",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.76947,-41.29643 ]
+    },
+    "properties": {
+    "site":"PUK",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.76947,-41.29643 ]
+    },
+    "properties": {
+    "site":"PUK",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.76947,-41.29643 ]
+    },
+    "properties": {
+    "site":"PUK",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.76947,-41.29643 ]
+    },
+    "properties": {
+    "site":"PUK",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.76947,-41.29643 ]
+    },
+    "properties": {
+    "site":"PUK",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.76947,-41.29643 ]
+    },
+    "properties": {
+    "site":"PUK",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.76947,-41.29643 ]
+    },
+    "properties": {
+    "site":"PUK",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78713,-41.29794 ]
+    },
+    "properties": {
+    "site":"QUE",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Concrete Roof Slabs",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81784,-41.31156 ]
+    },
+    "properties": {
+    "site":"QCT",
+    "BLOCK":"X",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81784,-41.31156 ]
+    },
+    "properties": {
+    "site":"QCT",
+    "BLOCK":"X",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78421,-41.31626 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"E",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78421,-41.31626 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"E",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78421,-41.31626 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"E",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78421,-41.31626 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"E",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78421,-41.31626 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"E",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78421,-41.31626 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"E",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78421,-41.31626 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"E",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78421,-41.31626 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"E",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78421,-41.31626 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"E",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78421,-41.31626 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"E",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78402,-41.3161 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"F",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78402,-41.3161 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"F",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78402,-41.3161 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"F",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78402,-41.3161 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"F",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78402,-41.3161 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"F",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78402,-41.3161 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"F",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78402,-41.3161 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"F",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78402,-41.3161 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"F",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78402,-41.3161 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"F",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78402,-41.3161 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"F",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78413,-41.31596 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"G",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78425,-41.31594 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"H",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78442,-41.31591 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"J",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78458,-41.31587 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"K",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78468,-41.31586 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"L",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78488,-41.31604 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"M",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78488,-41.31604 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"M",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78488,-41.31604 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"M",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78488,-41.31604 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"M",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78488,-41.31604 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"M",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78488,-41.31604 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"M",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78488,-41.31604 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"M",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78488,-41.31604 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"M",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78488,-41.31604 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"M",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78488,-41.31604 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"M",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77872,-41.32246 ]
+    },
+    "properties": {
+    "site":"RIN",
+    "BLOCK":"C",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77872,-41.32246 ]
+    },
+    "properties": {
+    "site":"RIN",
+    "BLOCK":"C",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75454,-41.26852 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"C",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75454,-41.26852 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"C",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75446,-41.26839 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"D",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75446,-41.26839 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"D",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75446,-41.26839 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"D",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75446,-41.26839 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"D",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75446,-41.26839 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"D",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75455,-41.2683 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"E",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75455,-41.2683 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"E",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75481,-41.26829 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"G",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Decramastic",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75481,-41.26829 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"G",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81988,-41.32506 ]
+    },
+    "properties": {
+    "site":"STC",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.76863,-41.29467 ]
+    },
+    "properties": {
+    "site":"ABE",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7829,-41.33645 ]
+    },
+    "properties": {
+    "site":"BUC",
+    "BLOCK":"F",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78281,-41.33658 ]
+    },
+    "properties": {
+    "site":"BUC",
+    "BLOCK":"H",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78269,-41.33674 ]
+    },
+    "properties": {
+    "site":"BUC",
+    "BLOCK":"I",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78266,-41.33684 ]
+    },
+    "properties": {
+    "site":"BUC",
+    "BLOCK":"J",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78198,-41.3382 ]
+    },
+    "properties": {
+    "site":"BUC",
+    "BLOCK":"K",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78402,-41.33502 ]
+    },
+    "properties": {
+    "site":"BUC",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Decramastic",
+    "c27":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7841,-41.33519 ]
+    },
+    "properties": {
+    "site":"BUC",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Decramastic",
+    "c27":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78398,-41.33538 ]
+    },
+    "properties": {
+    "site":"BUC",
+    "BLOCK":"C",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Decramastic",
+    "c27":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78387,-41.33549 ]
+    },
+    "properties": {
+    "site":"BUC",
+    "BLOCK":"D",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78372,-41.33562 ]
+    },
+    "properties": {
+    "site":"BUC",
+    "BLOCK":"E",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Decramastic",
+    "c27":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.80929,-41.32237 ]
+    },
+    "properties": {
+    "site":"CAL",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75724,-41.27273 ]
+    },
+    "properties": {
+    "site":"CHE",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75649,-41.27323 ]
+    },
+    "properties": {
+    "site":"CHE",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.79956,-41.32114 ]
+    },
+    "properties": {
+    "site":"COU",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.79956,-41.32114 ]
+    },
+    "properties": {
+    "site":"COU",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.82771,-41.30202 ]
+    },
+    "properties": {
+    "site":"DAL",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Tile Roofing - Concrete",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.82753,-41.302 ]
+    },
+    "properties": {
+    "site":"DAL",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Tile Roofing - Concrete",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.77909,-41.30626 ]
+    },
+    "properties": {
+    "site":"HUG",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81482,-41.30932 ]
+    },
+    "properties": {
+    "site":"MAU",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81506,-41.30921 ]
+    },
+    "properties": {
+    "site":"MAU",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81555,-41.30917 ]
+    },
+    "properties": {
+    "site":"MAU",
+    "BLOCK":"D",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.76418,-41.30825 ]
+    },
+    "properties": {
+    "site":"MCK",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.76418,-41.30825 ]
+    },
+    "properties": {
+    "site":"MCK",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.76448,-41.31505 ]
+    },
+    "properties": {
+    "site":"MOR",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.76454,-41.31488 ]
+    },
+    "properties": {
+    "site":"MOR",
+    "BLOCK":"D",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.76456,-41.31461 ]
+    },
+    "properties": {
+    "site":"MOR",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.76485,-41.31463 ]
+    },
+    "properties": {
+    "site":"MOR",
+    "BLOCK":"F",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.76484,-41.31488 ]
+    },
+    "properties": {
+    "site":"MOR",
+    "BLOCK":"C",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Decramastic",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.76477,-41.31514 ]
+    },
+    "properties": {
+    "site":"MOR",
+    "BLOCK":"E",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.785,-41.3155 ]
+    },
+    "properties": {
+    "site":"OWE",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7851,-41.31587 ]
+    },
+    "properties": {
+    "site":"OWE",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7851,-41.31587 ]
+    },
+    "properties": {
+    "site":"OWE",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78514,-41.31596 ]
+    },
+    "properties": {
+    "site":"OWE",
+    "BLOCK":"C",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7852,-41.31603 ]
+    },
+    "properties": {
+    "site":"OWE",
+    "BLOCK":"D",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78521,-41.31609 ]
+    },
+    "properties": {
+    "site":"OWE",
+    "BLOCK":"E",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78521,-41.31609 ]
+    },
+    "properties": {
+    "site":"OWE",
+    "BLOCK":"E",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7576,-41.27354 ]
+    },
+    "properties": {
+    "site":"PEM",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Tile Roofing - Concrete",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75751,-41.27337 ]
+    },
+    "properties": {
+    "site":"PEM",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78577,-41.25258 ]
+    },
+    "properties": {
+    "site":"PUN",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7858,-41.25258 ]
+    },
+    "properties": {
+    "site":"PUN",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Tile Roofing - Concrete",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7844,-41.31582 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"N",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7844,-41.31582 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"N",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Butynol Roofing",
+    "c27":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7844,-41.31582 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"N",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7844,-41.31582 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"N",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7844,-41.31582 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"N",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7844,-41.31582 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"N",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78434,-41.31566 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"N",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78434,-41.31566 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"N",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Butynol Roofing",
+    "c27":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78434,-41.31566 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"N",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78434,-41.31566 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"N",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78434,-41.31566 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"N",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78434,-41.31566 ]
+    },
+    "properties": {
+    "site":"REG",
+    "BLOCK":"N",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Skylight",
+    "c27":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75535,-41.26826 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"I",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Decramastic",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75494,-41.26811 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"J",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75494,-41.26811 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"J",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75494,-41.26811 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"J",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Butynol Roofing",
+    "c27":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75554,-41.2681 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"K",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75554,-41.2681 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"K",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75475,-41.26799 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"L",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75532,-41.26783 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"M",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75464,-41.26783 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"N",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7552,-41.26775 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"O",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Decramastic",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75448,-41.26775 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"P",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7551,-41.26761 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"Q",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75508,-41.26866 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75508,-41.26866 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.755,-41.26776 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"R",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75478,-41.26865 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"T",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75478,-41.26865 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"T",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75478,-41.26865 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"T",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75478,-41.26865 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"T",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Translucent Sheeting",
+    "c27":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75518,-41.26835 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"G",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Decramastic",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75518,-41.26835 ]
+    },
+    "properties": {
+    "site":"SHR",
+    "BLOCK":"G",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81889,-41.30963 ]
+    },
+    "properties": {
+    "site":"TAU",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81906,-41.30962 ]
+    },
+    "properties": {
+    "site":"TAU",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81925,-41.30962 ]
+    },
+    "properties": {
+    "site":"TAU",
+    "BLOCK":"C",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Decramastic",
+    "c27":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81987,-41.30964 ]
+    },
+    "properties": {
+    "site":"TAU",
+    "BLOCK":"D",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81946,-41.30958 ]
+    },
+    "properties": {
+    "site":"TAU",
+    "BLOCK":"E",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81931,-41.30941 ]
+    },
+    "properties": {
+    "site":"TAU",
+    "BLOCK":"G",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Decramastic",
+    "c27":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81967,-41.30928 ]
+    },
+    "properties": {
+    "site":"TAU",
+    "BLOCK":"H",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81916,-41.3093 ]
+    },
+    "properties": {
+    "site":"TAU",
+    "BLOCK":"I",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81954,-41.30913 ]
+    },
+    "properties": {
+    "site":"TAU",
+    "BLOCK":"J",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81909,-41.30918 ]
+    },
+    "properties": {
+    "site":"TAU",
+    "BLOCK":"K",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81946,-41.309 ]
+    },
+    "properties": {
+    "site":"TAU",
+    "BLOCK":"L",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Decramastic",
+    "c27":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81947,-41.30884 ]
+    },
+    "properties": {
+    "site":"TAU",
+    "BLOCK":"M",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.81924,-41.30879 ]
+    },
+    "properties": {
+    "site":"TAU",
+    "BLOCK":"N",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.8192,-41.30891 ]
+    },
+    "properties": {
+    "site":"TAU",
+    "BLOCK":"O",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Decramastic",
+    "c27":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.79072,-41.31178 ]
+    },
+    "properties": {
+    "site":"WEL",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.79072,-41.31178 ]
+    },
+    "properties": {
+    "site":"WEL",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75688,-41.26795 ]
+    },
+    "properties": {
+    "site":"WIL",
+    "BLOCK":"E",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75688,-41.26795 ]
+    },
+    "properties": {
+    "site":"WIL",
+    "BLOCK":"E",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7548,-41.26911 ]
+    },
+    "properties": {
+    "site":"WIL",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Metal Roofing",
+    "c27":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75472,-41.26926 ]
+    },
+    "properties": {
+    "site":"WIL",
+    "BLOCK":"B",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75454,-41.2709 ]
+    },
+    "properties": {
+    "site":"WIL",
+    "BLOCK":"C",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75458,-41.27104 ]
+    },
+    "properties": {
+    "site":"WIL",
+    "BLOCK":"D",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.75671,-41.27234 ]
+    },
+    "properties": {
+    "site":"WOR",
+    "BLOCK":"A",
+    "Group Code":"EF",
+    "Type Code":"ROF",
+    "Name (uk)":"Colour Steel",
+    "c27":2
+    }
+  }
+]
+}

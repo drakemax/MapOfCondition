@@ -1,0 +1,86 @@
+<!DOCTYPE html >
+<html xmlns="https://www.w3.org/1999/xhtml" lang="en">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html"; charset="utf-8" />
+<title>Google Maps API Condition</title>
+<style>
+html, body {
+height: 95%;
+margin: 0px;
+padding: 10px;
+}
+#xmap{
+width : 80%;
+height: 65%;
+
+}
+#floating-panel {
+        position: absolute;
+        top: 10px;
+        left: 25%;
+        z-index: 5;
+       background-color: #fff;
+        padding: 5px;
+        border: 1px solid #999;
+        text-align: center;
+        font-family: 'Roboto','sans-serif';
+        line-height: 30px;
+        padding-left: 10px;
+      }
+
+	
+img {
+    display: block;
+    margin: 0px auto;
+}
+</style>
+
+
+
+<script type="text/javascript"
+ src="https://maps.googleapis.com/maps/api/js?key=AIzaSyClRfa5oK940N8QhkKqjpHgrr0d9nbR4jI&js?sensor=false"></script>
+
+<!--<script type="text/javascript" src="js/map.js"></script> -->
+
+<script type="text/javascript" src="Gmaps.js"></script>
+</head>
+<body>
+<?php include_once("analyticstracking.php") ?>
+
+
+<input type="button" value = "Now" id = "Yr1" />  
+<input type="button" value = "5 yrs" id = "Yr5" /> 
+<input type="button" value = "10 yrs" id = "Yr10" />
+<input type="button" value = "20 yrs" id = "Yr20" />  
+<input type="button" value = "30 yrs" id = "Yr30" />  <font color="red">Press Year for Condition.      Also switch between map types (Map or Satellite) with buttons on map </font>
+
+
+
+<div style="float: left;"
+id="xmap">
+</div>
+
+<img src= "condition map legend.jpg" 
+width=20%
+height=65%
+align="right"
+title="Map Legend"></img>
+  
+<img src= "TableAgregated.jpg" 
+width=50%
+height="345"
+align="left"
+title="Cost over time for property-  Purple- Ongoing maintenance predicted,   Rising Red line- Aggregated maintenance costs over time,   Red horizontal line- Current value of improvements (building cost) "></img>
+ 
+<img src= "Table Bar Ag.jpg" 
+width=50%
+height="345"
+align="right"
+title="Cost -present day value-  Cost of maintenace each year (from SPM algorithm based on current condition and life of components)"></img>
+ 
+ </body>
+ 
+</html>
+
+
